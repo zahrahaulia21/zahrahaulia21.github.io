@@ -50,4 +50,5 @@ This is a group project for Database for Data Science course.
 * Data is a dummy data.
 * Making ER Diagram.
 * Doing database system simulation with SQLite using some query such as INSERT, UPDATE, SELECT, DELETE, and JOIN.
-  
+
+  ![image](https://github.com/user-attachments/assets/5f27f95b-24fd-4d42-adb8-2e52af655296)
