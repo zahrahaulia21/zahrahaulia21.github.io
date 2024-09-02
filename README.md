@@ -26,9 +26,18 @@ This is a group project for Data Mining and Business Intelligence course.
 
 This is a group project for Exploratory and Data Visualization course.
 
-* Data obtained by crawling data from Twitter using Twitter API.
+* Data was obtained by crawling data from Twitter using Twitter API.
 * Doing text data preprocessing such as tokenization, slang fixing, removing stopwords, and lemmatization.
 * Doing sentiment analysis on the topic of the borobudur ticket price increase.
 * Doing text data visualization with wordclouds using Voyant Tools.
 
   ![image](https://github.com/user-attachments/assets/39cfc273-4787-46ae-9994-bf475a9fb4bd)
+
+
+#	[Project 4: Regression Model for Predicting Insurance Expenses](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Regression%20Model.pdf)
+
+This is a group project for Linear Model course.
+
+* Data was obtained from Kaggle.
+* Building the regression model of insurance expenses using RStudio.
+* Choosing the best model based on some best model criterion such as MSE, R-Square, adjusted RSquare, Cp Mallows, and PRESS.
