@@ -30,3 +30,5 @@ This is a group project for Exploratory and Data Visualization course.
 * Doing text data preprocessing such as tokenization, slang fixing, removing stopwords, and lemmatization.
 * Doing sentiment analysis on the topic of the borobudur ticket price increase.
 * Doing text data visualization with wordclouds using Voyant Tools.
+
+  ![image](https://github.com/user-attachments/assets/39cfc273-4787-46ae-9994-bf475a9fb4bd)
