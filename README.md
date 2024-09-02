@@ -1,6 +1,6 @@
 # Zahrah Aulia's Portfolio
 
-# [Project 1: Exploratory Data Analysis (EDA) for Property Data] (https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/EDA%20for%20Property%20Data.ipynb)
+#	[Project 1: Exploratory Data Analysis (EDA) for Property Data](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/EDA%20for%20Property%20Data.ipynb)
 
 This is a group project for Data Mining and Business Intelligence course.
 
