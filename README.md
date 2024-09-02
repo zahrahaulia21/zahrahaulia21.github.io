@@ -7,3 +7,8 @@ This is a group project for Data Mining and Business Intelligence course.
 * Data was given from the lecturer, but we collected data from property website to complete the data.
 * Doing data preprocessing, such as handling missing values and outliers, standardizing data formats.
 * Doing data exploratoration to answer some questions such as ss there a tendency for houses in one city to be more expensive/cheaper than in other cities, recommendation which city should the new branch office located in, the characteristics of the most sold houses, house recommendations that will potentially generate profits for the company, etc.
+  
+  ![image](https://github.com/user-attachments/assets/2e3b48a1-ad8e-4d19-8bd5-acf5f9054d91)
+
+
+
