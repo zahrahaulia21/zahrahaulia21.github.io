@@ -22,3 +22,13 @@ This is a group project for Data Mining and Business Intelligence course.
 * Building linear regression model to find out the characteristic that tend to have higher level of mental health disorder (Insight 1), and building obesity classification model to find the feature importances using random forest (Insight 3).
 
   ![image](https://github.com/user-attachments/assets/006d157d-b8b4-471f-990b-3b71ee27e273)
+
+
+#	[Project 3: Social Media Analytics](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Social%20Media%20Analytics.pdf)
+
+This is a group project for Exploratory and Data Visualization course.
+
+* Data obtained by crawling data from Twitter using Twitter API.
+* Doing text data preprocessing such as tokenization, slang fixing, removing stopwords, and lemmatization.
+* Doing sentiment analysis on the topic of the borobudur ticket price increase.
+* Doing text data visualization with wordclouds using Voyant Tools.
