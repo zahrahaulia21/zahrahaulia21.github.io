@@ -41,3 +41,13 @@ This is a group project for Linear Model course.
 * Data was obtained from Kaggle.
 * Building the regression model of insurance expenses using RStudio.
 * Choosing the best model based on some best model criterion such as MSE, R-Square, adjusted RSquare, Cp Mallows, and PRESS.
+
+
+#	[Project 5: Hospital Database](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Hospital%20Database.pdf)
+
+This is a group project for Database for Data Science course.
+
+* Data is a dummy data.
+* Making ER Diagram.
+* Doing database system simulation with SQLite using some query such as INSERT, UPDATE, SELECT, DELETE, and JOIN.
+  
