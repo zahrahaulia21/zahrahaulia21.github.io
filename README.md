@@ -21,6 +21,4 @@ This is a group project for Data Mining and Business Intelligence course.
 * Doing data cleansing, handling noisy data, and doing data preprocessing that is adjusted to the data mining steps that will be carried out.
 * Building linear regression model to find out the characteristic that tend to have higher level of mental health disorder (Insight 1), and building obesity classification model to find the feature importances using random forest (Insight 3).
 
-
-
-
+  ![image](https://github.com/user-attachments/assets/006d157d-b8b4-471f-990b-3b71ee27e273)
