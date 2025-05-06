@@ -40,7 +40,9 @@ This is a project for Unstructured Data Analysis course.
 * Doing text data preprocessing such as tokenization, removing stopwords, and stemming.
 * Building classification model using Random Forest, k-NN, and Support Vector Machine.
   
+  ![Image](https://github.com/user-attachments/assets/b1d242ec-4fc5-4220-b9f7-4dfc7e0fed1b)
 
+  
 #	[Project 5: Hospital Database](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Hospital%20Database.pdf)
 
 This is a group project for Database for Data Science course.
@@ -60,8 +62,6 @@ This is a group project for Exploratory and Data Visualization course.
 * Doing text data preprocessing such as tokenization, slang fixing, removing stopwords, and lemmatization.
 * Doing sentiment analysis on the topic of the borobudur ticket price increase.
 * Doing text data visualization with wordclouds using Voyant Tools.
-
-  ![image](https://github.com/user-attachments/assets/39cfc273-4787-46ae-9994-bf475a9fb4bd)
 
 
 #	[Project 7: Regression Model for Predicting Insurance Expenses](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Regression%20Model.pdf)
