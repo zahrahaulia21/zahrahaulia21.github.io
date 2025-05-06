@@ -32,7 +32,7 @@ This is a self-initiated project.
   ![Image](https://github.com/user-attachments/assets/a81085df-4745-43a2-87c9-10322d51aecc)
 
 
-# [Project 4: Sentiment Analysis on Netflix Reviews]
+# [Project 4: Sentiment Analysis on Netflix Reviews](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Sentiment%20Analysis%20on%20Netflix%20Reviews.ipynb)
 This is a project for Unstructured Data Analysis course.
 
 * Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/odins0n/top-20-play-store-app-reviews-daily-update?select=Netflix.csv) updated on March 24, 2025.
