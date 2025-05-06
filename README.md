@@ -25,15 +25,17 @@ This is a group project for Data Mining and Business Intelligence course.
 # [Project 3: Data Analysis using SQLite]
 This is a self-initiated project.
 
-* Dataset was obtained from 8weeksqlchallenge(https://8weeksqlchallenge.com/case-study-3/).
+* Dataset was obtained from [8weeksqlchallenge](https://8weeksqlchallenge.com/case-study-3/).
 * Dataset consists of two tables, plan and subscriptions, which provide data related to subscription-based businesses.
 * Writing SQL query to explore, extract, filter, and aggregate data to answer 11 data analysis questions, such as what is the customer count and percentage of customers who have churned rounded to 1 decimal place?, etc.
+
+  ![Image](https://github.com/user-attachments/assets/a81085df-4745-43a2-87c9-10322d51aecc)
 
 
 # [Project 4: Sentiment Analysis on Netflix Reviews]
 This is a project for Unstructured Data Analysis course.
 
-* Dataset was obtained from Kaggle(https://www.kaggle.com/datasets/odins0n/top-20-play-store-app-reviews-daily-update?select=Netflix.csv) updated on March 24, 2025.
+* Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/odins0n/top-20-play-store-app-reviews-daily-update?select=Netflix.csv) updated on March 24, 2025.
 * Dataset consists of three columns, namely reviewID, content, and score. It contains reviews along with their corresponding star ratings, ranging from 1 to 5.
 * Doing text data preprocessing such as tokenization, removing stopwords, and stemming.
 * Building classification model using Random Forest, k-NN, and Support Vector Machine.
