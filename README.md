@@ -1,4 +1,4 @@
-#	[Project 1: Exploratory Data Analysis (EDA) for Property Data](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/EDA%20for%20Property%20Data.ipynb)
+#	[Project 1: Exploratory Data Analysis (EDA) for Property Data](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/EDA%20for%20Property%20Data.ipynb)
 
 This is a group project for Data Mining and Business Intelligence course.
 
@@ -10,7 +10,7 @@ This is a group project for Data Mining and Business Intelligence course.
   ![image](https://github.com/user-attachments/assets/2e3b48a1-ad8e-4d19-8bd5-acf5f9054d91)
 
 
-#	[Project 2: Data Mining on Mental Health Data](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Data%20Mining%20on%20Mental%20Health%20Data.ipynb)
+#	[Project 2: Data Mining on Mental Health Data](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Data%20Mining%20on%20Mental%20Health%20Data.ipynb)
 
 This is a group project for Data Mining and Business Intelligence course.
 
@@ -22,7 +22,7 @@ This is a group project for Data Mining and Business Intelligence course.
   ![image](https://github.com/user-attachments/assets/006d157d-b8b4-471f-990b-3b71ee27e273)
 
 
-# [Project 3: Data Analysis using SQLite]
+# [Project 3: Data Analysis using SQLite](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/SQL%20Project%20Foodie-Fi.pdf)
 This is a self-initiated project.
 
 * Dataset was obtained from [8weeksqlchallenge](https://8weeksqlchallenge.com/case-study-3/).
@@ -41,7 +41,7 @@ This is a project for Unstructured Data Analysis course.
 * Building classification model using Random Forest, k-NN, and Support Vector Machine.
   
 
-#	[Project 5: Hospital Database](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Hospital%20Database.pdf)
+#	[Project 5: Hospital Database](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Hospital%20Database.pdf)
 
 This is a group project for Database for Data Science course.
 
@@ -52,7 +52,7 @@ This is a group project for Database for Data Science course.
   ![image](https://github.com/user-attachments/assets/5f27f95b-24fd-4d42-adb8-2e52af655296)
 
   
-#	[Project 6: Social Media Analytics](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Social%20Media%20Analytics.pdf)
+#	[Project 6: Social Media Analytics](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Social%20Media%20Analytics.pdf)
 
 This is a group project for Exploratory and Data Visualization course.
 
@@ -64,7 +64,7 @@ This is a group project for Exploratory and Data Visualization course.
   ![image](https://github.com/user-attachments/assets/39cfc273-4787-46ae-9994-bf475a9fb4bd)
 
 
-#	[Project 7: Regression Model for Predicting Insurance Expenses](https://github.com/zahrahaulia21/zahrahaulia_portfolio/blob/main/Regression%20Model.pdf)
+#	[Project 7: Regression Model for Predicting Insurance Expenses](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Regression%20Model.pdf)
 
 This is a group project for Linear Model course.
 
