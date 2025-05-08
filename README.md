@@ -27,7 +27,7 @@ This is a self-initiated project.
 
 * Dataset was obtained from [8weeksqlchallenge](https://8weeksqlchallenge.com/case-study-3/).
 * Dataset consists of two tables, plan and subscriptions, which provide data related to subscription-based businesses.
-* Writing SQL query to explore, extract, filter, and aggregate data to answer 11 data analysis questions, such as what is the customer count and percentage of customers who have churned rounded to 1 decimal place?, etc.
+* Writing SQL query to explore, extract, filter, and aggregate data to answer 11 data analysis questions, such as what is the customer count and percentage of customers who have churned rounded to 1 decimal place?, and more.
 
   ![Image](https://github.com/user-attachments/assets/a81085df-4745-43a2-87c9-10322d51aecc)
 
