@@ -22,7 +22,7 @@ This is a group project for Data Mining and Business Intelligence course.
   ![image](https://github.com/user-attachments/assets/006d157d-b8b4-471f-990b-3b71ee27e273)
 
 
-# [Project 3: Subscription Business Analysis with SQLite](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/SQL%20Project%20Foodie-Fi.pdf)
+# [Project 3: Subscription Business Analysis with SQLite](https://github.com/zahrahaulia21/zahrahaulia21.github.io/blob/main/Subscription%20Business%20Analysis.pdf)
 This is a self-initiated project.
 
 * Dataset was obtained from [8weeksqlchallenge](https://8weeksqlchallenge.com/case-study-3/).
